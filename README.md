@@ -6,7 +6,9 @@ I'm a International Business graduate with a background in Controlling and now e
 ## Knowledge
 
 I worked with
+- VBA
 - Python (Pandas, Matplotlib, Sklearn)
+- R
 - SQL
 - Tableau
 - Power BI
