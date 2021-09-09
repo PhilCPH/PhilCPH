@@ -16,4 +16,3 @@ I worked with
 ## Connect with me on
 
 - [LinkedIn](https://www.linkedin.com/in/philippmaronitsch/)
-- [Github](https://github.com/PhilCPH)
